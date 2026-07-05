@@ -1,3 +1,5 @@
+2026_07_05_16_06-Docker_From_The_Kernel_Up
+
 # CONCEPT_ENGINEERING.md — Docker From the Kernel Up
 
 *A full walkthrough of every concept you need for the Docker_Practice project, written for an embedded/firmware engineer moving into backend, distributed systems, and cloud infrastructure.*

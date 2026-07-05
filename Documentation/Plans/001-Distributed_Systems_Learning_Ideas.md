@@ -1,3 +1,5 @@
+2026_07_05_14_36-Distributed_Systems_Learning_Ideas
+
 # Distributed Systems & Cloud Learning Lab — Project Ideas
 
 Goal: learn distributed systems and cloud concepts hands-on, entirely locally, using Docker containers to simulate multi-node environments.
