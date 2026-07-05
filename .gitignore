@@ -1,0 +1,97 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+*.crt
+*.p12
+
+# Python / LangChain / notebooks
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+lib/
+lib64/
+site-packages/
+*.egg-info/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+.coverage
+.coverage.*
+htmlcov/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# LangChain / local AI artifacts
+.langchain/
+.langchainrc
+.chroma/
+.faiss
+*.faiss
+*.index
+*.pkl
+*.pickle
+*.bin
+*.gguf
+*.safetensors
+*.onnx
+.cache/
+#models/        This is for weights, but I am having folders for model providers
+checkpoints/
+embeddings/
+vector_store/
+prompt_cache/
+
+# Docker / containers
+.docker/
+docker-data/
+container-data/
+volumes/
+*.tar
+*.tar.gz
+*.img
+docker-compose.override.yml
+docker-compose.*.local.yml
+*.env.docker
+
+# Logs and temp files
+*.log
+logs/
+tmp/
+temp/
+
+# Build / .NET artifacts
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
